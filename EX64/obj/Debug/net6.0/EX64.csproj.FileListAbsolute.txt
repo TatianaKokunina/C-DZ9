@@ -1,0 +1,15 @@
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\bin\Debug\net6.0\EX64.exe
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\bin\Debug\net6.0\EX64.deps.json
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\bin\Debug\net6.0\EX64.runtimeconfig.json
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\bin\Debug\net6.0\EX64.dll
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\bin\Debug\net6.0\EX64.pdb
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\EX64.csproj.AssemblyReference.cache
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\EX64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\EX64.AssemblyInfoInputs.cache
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\EX64.AssemblyInfo.cs
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\EX64.csproj.CoreCompileInputs.cache
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\EX64.dll
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\refint\EX64.dll
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\EX64.pdb
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\EX64.genruntimeconfig.cache
+D:\Базовый курс. Тестировщик\C#DZ9\EX64\obj\Debug\net6.0\ref\EX64.dll
